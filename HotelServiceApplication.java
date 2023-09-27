@@ -10,4 +10,9 @@ public class HotelServiceApplication {
 		SpringApplication.run(HotelServiceApplication.class, args);
 	}
 
+
+	void min(){
+		System.out.println("at least 20 minutes required");
+	}
+
 }

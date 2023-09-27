@@ -10,12 +10,13 @@ public class HotelServiceApplication {
 		SpringApplication.run(HotelServiceApplication.class, args);
 	}
 
-	public void run(){
-		System.out.println("hello world");
-	}
 
 	public void start(){
 		System.out.println("I am started running");
+	}
+
+	public void max(){
+		System.out.println("max time of runing is 30 minutes");
 	}
 
 

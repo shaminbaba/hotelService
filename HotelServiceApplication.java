@@ -14,5 +14,9 @@ public class HotelServiceApplication {
 		System.out.println("hello world");
 	}
 
+	public void start(){
+		System.out.println("I am started running");
+	}
+
 
 }

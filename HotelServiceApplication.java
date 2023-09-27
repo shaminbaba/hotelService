@@ -10,4 +10,9 @@ public class HotelServiceApplication {
 		SpringApplication.run(HotelServiceApplication.class, args);
 	}
 
+	public void run(){
+		System.out.println("hello world");
+	}
+
+
 }

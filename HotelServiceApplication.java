@@ -30,8 +30,4 @@ public class HotelServiceApplication {
 	}
 
 
-	public void minss(){
-		System.out.println("max time of runing is 30 minutes");
-	}
-
 }

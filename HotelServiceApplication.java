@@ -11,6 +11,11 @@ public class HotelServiceApplication {
 	}
 
 
+	void min(){
+		System.out.println("at least 20 minutes required");
+	}
+
+
 	public void start(){
 		System.out.println("I am started running");
 	}
@@ -19,5 +24,14 @@ public class HotelServiceApplication {
 		System.out.println("max time of runing is 30 minutes");
 	}
 
+
+	public void mins(){
+		System.out.println("max time of runing is 30 minutes");
+	}
+
+
+	public void minss(){
+		System.out.println("max time of runing is 30 minutes");
+	}
 
 }

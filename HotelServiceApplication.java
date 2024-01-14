@@ -30,4 +30,6 @@ public class HotelServiceApplication {
 	}
 
 
+	//removed some thing in this java file
+
 }
